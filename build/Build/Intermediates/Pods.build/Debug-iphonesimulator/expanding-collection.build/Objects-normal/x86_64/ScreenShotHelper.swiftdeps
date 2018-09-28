@@ -1,0 +1,246 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["CSo6UIView", ""]
+- ["CSo6UIView", "takeSnapshot"]
+provides-dynamic-lookup:
+- "takeSnapshot"
+depends-top-level:
+- !private "*"
+- !private "BooleanLiteralType"
+- "CGRect"
+- !private "UIGraphicsBeginImageContextWithOptions"
+- !private "UIGraphicsEndImageContext"
+- !private "UIGraphicsGetCurrentContext"
+- !private "UIGraphicsGetImageFromCurrentImageContext"
+- "UIImage"
+- "UIView"
+depends-member:
+- !private ["Ps9AnyObject", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps9AnyObject", "UIGraphicsEndImageContext"]
+- !private ["Ps9AnyObject", "UIGraphicsGetCurrentContext"]
+- !private ["Ps9AnyObject", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps9AnyObject", "layer"]
+- !private ["Ps9AnyObject", "render"]
+- !private ["Ps9AnyObject", "translateBy"]
+- !private ["CSo7CALayer", "render"]
+- !private ["PSo15CALayerDelegate", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo15CALayerDelegate", "UIGraphicsEndImageContext"]
+- !private ["PSo15CALayerDelegate", "UIGraphicsGetCurrentContext"]
+- !private ["PSo15CALayerDelegate", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo15CALayerDelegate", "layer"]
+- !private ["PSo13CAMediaTiming", "render"]
+- !private ["CSo9CGContext", "translateBy"]
+- !private ["VSC7CGPoint", "x"]
+- !private ["VSC7CGPoint", "y"]
+- !private ["VSC6CGRect", "origin"]
+- !private ["VSC6CGRect", "size"]
+- !private ["Ps7CVarArg", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps7CVarArg", "UIGraphicsEndImageContext"]
+- !private ["Ps7CVarArg", "UIGraphicsGetCurrentContext"]
+- !private ["Ps7CVarArg", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps7CVarArg", "layer"]
+- !private ["Ps7CVarArg", "render"]
+- !private ["P20expanding_collection16CornerAnimatable", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["P20expanding_collection16CornerAnimatable", "UIGraphicsEndImageContext"]
+- !private ["P20expanding_collection16CornerAnimatable", "UIGraphicsGetCurrentContext"]
+- !private ["P20expanding_collection16CornerAnimatable", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["P20expanding_collection16CornerAnimatable", "layer"]
+- !private ["Ps28CustomDebugStringConvertible", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps28CustomDebugStringConvertible", "UIGraphicsEndImageContext"]
+- !private ["Ps28CustomDebugStringConvertible", "UIGraphicsGetCurrentContext"]
+- !private ["Ps28CustomDebugStringConvertible", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps28CustomDebugStringConvertible", "layer"]
+- !private ["Ps28CustomDebugStringConvertible", "origin"]
+- !private ["Ps28CustomDebugStringConvertible", "render"]
+- !private ["Ps28CustomDebugStringConvertible", "size"]
+- !private ["Ps28CustomDebugStringConvertible", "x"]
+- !private ["Ps28CustomDebugStringConvertible", "y"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "origin"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "size"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "x"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "y"]
+- !private ["Ps17CustomReflectable", "origin"]
+- !private ["Ps17CustomReflectable", "size"]
+- !private ["Ps17CustomReflectable", "x"]
+- !private ["Ps17CustomReflectable", "y"]
+- !private ["Ps23CustomStringConvertible", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps23CustomStringConvertible", "UIGraphicsEndImageContext"]
+- !private ["Ps23CustomStringConvertible", "UIGraphicsGetCurrentContext"]
+- !private ["Ps23CustomStringConvertible", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps23CustomStringConvertible", "layer"]
+- !private ["Ps23CustomStringConvertible", "render"]
+- !private ["Ps9Equatable", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps9Equatable", "UIGraphicsEndImageContext"]
+- !private ["Ps9Equatable", "UIGraphicsGetCurrentContext"]
+- !private ["Ps9Equatable", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps9Equatable", "layer"]
+- !private ["Ps9Equatable", "origin"]
+- !private ["Ps9Equatable", "render"]
+- !private ["Ps9Equatable", "size"]
+- !private ["Ps9Equatable", "x"]
+- !private ["Ps9Equatable", "y"]
+- !private ["Ps8Hashable", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps8Hashable", "UIGraphicsEndImageContext"]
+- !private ["Ps8Hashable", "UIGraphicsGetCurrentContext"]
+- !private ["Ps8Hashable", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps8Hashable", "layer"]
+- !private ["Ps8Hashable", "render"]
+- !private ["PSo8NSCoding", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo8NSCoding", "UIGraphicsEndImageContext"]
+- !private ["PSo8NSCoding", "UIGraphicsGetCurrentContext"]
+- !private ["PSo8NSCoding", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo8NSCoding", "layer"]
+- !private ["PSo8NSCoding", "render"]
+- ["CSo8NSObject", "CGRect"]
+- !private ["CSo8NSObject", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["CSo8NSObject", "UIGraphicsEndImageContext"]
+- !private ["CSo8NSObject", "UIGraphicsGetCurrentContext"]
+- !private ["CSo8NSObject", "UIGraphicsGetImageFromCurrentImageContext"]
+- ["CSo8NSObject", "UIImage"]
+- !private ["CSo8NSObject", "layer"]
+- !private ["CSo8NSObject", "render"]
+- ["CSo8NSObject", "takeSnapshot"]
+- !private ["PSo16NSObjectProtocol", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo16NSObjectProtocol", "UIGraphicsEndImageContext"]
+- !private ["PSo16NSObjectProtocol", "UIGraphicsGetCurrentContext"]
+- !private ["PSo16NSObjectProtocol", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo16NSObjectProtocol", "layer"]
+- !private ["PSo16NSObjectProtocol", "render"]
+- !private ["P20expanding_collection15SubviewsForEach", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["P20expanding_collection15SubviewsForEach", "UIGraphicsEndImageContext"]
+- !private ["P20expanding_collection15SubviewsForEach", "UIGraphicsGetCurrentContext"]
+- !private ["P20expanding_collection15SubviewsForEach", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["P20expanding_collection15SubviewsForEach", "layer"]
+- !private ["PSo29UIAccessibilityIdentification", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo29UIAccessibilityIdentification", "UIGraphicsEndImageContext"]
+- !private ["PSo29UIAccessibilityIdentification", "UIGraphicsGetCurrentContext"]
+- !private ["PSo29UIAccessibilityIdentification", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo29UIAccessibilityIdentification", "layer"]
+- !private ["PSo12UIAppearance", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo12UIAppearance", "UIGraphicsEndImageContext"]
+- !private ["PSo12UIAppearance", "UIGraphicsGetCurrentContext"]
+- !private ["PSo12UIAppearance", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo12UIAppearance", "layer"]
+- !private ["PSo21UIAppearanceContainer", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo21UIAppearanceContainer", "UIGraphicsEndImageContext"]
+- !private ["PSo21UIAppearanceContainer", "UIGraphicsGetCurrentContext"]
+- !private ["PSo21UIAppearanceContainer", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo21UIAppearanceContainer", "layer"]
+- !private ["PSo17UICoordinateSpace", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo17UICoordinateSpace", "UIGraphicsEndImageContext"]
+- !private ["PSo17UICoordinateSpace", "UIGraphicsGetCurrentContext"]
+- !private ["PSo17UICoordinateSpace", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo17UICoordinateSpace", "layer"]
+- !private ["PSo13UIDynamicItem", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo13UIDynamicItem", "UIGraphicsEndImageContext"]
+- !private ["PSo13UIDynamicItem", "UIGraphicsGetCurrentContext"]
+- !private ["PSo13UIDynamicItem", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo13UIDynamicItem", "layer"]
+- !private ["PSo18UIFocusEnvironment", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo18UIFocusEnvironment", "UIGraphicsEndImageContext"]
+- !private ["PSo18UIFocusEnvironment", "UIGraphicsGetCurrentContext"]
+- !private ["PSo18UIFocusEnvironment", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo18UIFocusEnvironment", "layer"]
+- !private ["PSo11UIFocusItem", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo11UIFocusItem", "UIGraphicsEndImageContext"]
+- !private ["PSo11UIFocusItem", "UIGraphicsGetCurrentContext"]
+- !private ["PSo11UIFocusItem", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo11UIFocusItem", "layer"]
+- ["CSo11UIResponder", "CGRect"]
+- !private ["CSo11UIResponder", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["CSo11UIResponder", "UIGraphicsEndImageContext"]
+- !private ["CSo11UIResponder", "UIGraphicsGetCurrentContext"]
+- !private ["CSo11UIResponder", "UIGraphicsGetImageFromCurrentImageContext"]
+- ["CSo11UIResponder", "UIImage"]
+- !private ["CSo11UIResponder", "layer"]
+- ["CSo11UIResponder", "takeSnapshot"]
+- !private ["PSo30UIResponderStandardEditActions", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo30UIResponderStandardEditActions", "UIGraphicsEndImageContext"]
+- !private ["PSo30UIResponderStandardEditActions", "UIGraphicsGetCurrentContext"]
+- !private ["PSo30UIResponderStandardEditActions", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo30UIResponderStandardEditActions", "layer"]
+- !private ["PSo18UITraitEnvironment", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo18UITraitEnvironment", "UIGraphicsEndImageContext"]
+- !private ["PSo18UITraitEnvironment", "UIGraphicsGetCurrentContext"]
+- !private ["PSo18UITraitEnvironment", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo18UITraitEnvironment", "layer"]
+- ["CSo6UIView", "CGRect"]
+- !private ["CSo6UIView", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["CSo6UIView", "UIGraphicsEndImageContext"]
+- !private ["CSo6UIView", "UIGraphicsGetCurrentContext"]
+- !private ["CSo6UIView", "UIGraphicsGetImageFromCurrentImageContext"]
+- ["CSo6UIView", "UIImage"]
+- !private ["CSo6UIView", "layer"]
+- ["CSo6UIView", "takeSnapshot"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "UIGraphicsEndImageContext"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "UIGraphicsGetCurrentContext"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "layer"]
+- !private ["Ps9_Hashable", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps9_Hashable", "UIGraphicsEndImageContext"]
+- !private ["Ps9_Hashable", "UIGraphicsGetCurrentContext"]
+- !private ["Ps9_Hashable", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps9_Hashable", "layer"]
+- !private ["Ps9_Hashable", "render"]
+- !private ["Ps21_ObjectiveCBridgeable", "origin"]
+- !private ["Ps21_ObjectiveCBridgeable", "size"]
+- !private ["Ps21_ObjectiveCBridgeable", "x"]
+- !private ["Ps21_ObjectiveCBridgeable", "y"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- !private "CSo7CALayer"
+- !private "PSo15CALayerDelegate"
+- !private "PSo13CAMediaTiming"
+- !private "CSo9CGContext"
+- !private "VSC7CGPoint"
+- !private "VSC6CGRect"
+- !private "Ps7CVarArg"
+- !private "P20expanding_collection16CornerAnimatable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps8Hashable"
+- !private "PSo8NSCoding"
+- "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- !private "P20expanding_collection15SubviewsForEach"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- !private "PSo21UIAppearanceContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- "CSo11UIResponder"
+- !private "PSo30UIResponderStandardEditActions"
+- !private "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/Target Support Files/expanding-collection/expanding-collection-umbrella.h"
+- "/Users/dhrumilshah/Desktop/Trofi Beta 2/build/Build/Intermediates/Pods.build/Debug-iphonesimulator/expanding-collection.build/unextended-module.modulemap"
+interface-hash: "b1d338df8794e5862b71bef280b4ff6b"

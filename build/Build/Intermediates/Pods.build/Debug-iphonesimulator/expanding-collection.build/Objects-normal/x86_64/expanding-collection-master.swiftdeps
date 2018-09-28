@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "0cb6b12ba47fcc1a786b0de7d5be61cf"
+build_time: [557431789, 841193000]
+inputs:
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/expanding-collection/Source/ExpandingViewController/CollectionView/Cells/BasePageCollectionCell.swift": [556981973, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/expanding-collection/Source/Helpers/ConfigurationHelper/ConfigurationHelper.swift": [556842105, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/expanding-collection/Source/Helpers/Constraints Helpers/ConstraintsHelper.swift": [556842105, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/expanding-collection/Source/Helpers/Animations/CornerAnimatable/CornerAnimatable.swift": [556842105, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/expanding-collection/Source/ExpandingTableViewController/ExpandingTableViewController.swift": [556842105, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/expanding-collection/Source/ExpandingViewController/ExpandingViewController.swift": [556842105, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/expanding-collection/Source/ExpandingViewController/CollectionView/Layout/PageCollectionLayout.swift": [556842105, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/expanding-collection/Source/ExpandingViewController/CollectionView/PageCollectionView.swift": [556842105, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/expanding-collection/Source/Helpers/ScreenShot/ScreenShotHelper.swift": [556842105, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/expanding-collection/Source/Helpers/SubviewsForEach/SubviewsForEach.swift": [556842105, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/expanding-collection/Source/TransitionDriver/TransitionDriver.swift": [556842105, 0]

@@ -1,0 +1,616 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["10KingfisherAAC", ""]
+- ["So11UIImageViewC", ""]
+- ["10KingfisherAAC", "setImage"]
+- ["10KingfisherAAC", "cancelDownloadTask"]
+- ["10KingfisherAAC", "webURL"]
+- ["10KingfisherAAC", "indicatorType"]
+- ["10KingfisherAAC", "indicator"]
+- ["10KingfisherAAC", "placeholder"]
+- ["So11UIImageViewC", "shouldPreloadAllAnimation"]
+provides-dynamic-lookup:
+- "shouldPreloadAllAnimation"
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "&&"
+- !private "+"
+- !private "=="
+- !private "??"
+- !private "ActivityIndicator"
+- "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "Box"
+- !private "CGPoint"
+- "CastingPrecedence"
+- "CompletionHandler"
+- !private "DispatchQueue"
+- "DownloadProgressBlock"
+- !private "ImageIndicator"
+- "ImageView"
+- "Indicator"
+- "IndicatorType"
+- "Kingfisher"
+- !private "KingfisherEmptyOptionsInfo"
+- !private "KingfisherManager"
+- "KingfisherOptionsInfo"
+- "Placeholder"
+- "Resource"
+- "RetrieveImageTask"
+- !private "UIView"
+- "URL"
+- "Void"
+- !private "imageTaskKey"
+- !private "indicatorKey"
+- !private "indicatorTypeKey"
+- !private "lastURLKey"
+- !private "objc_getAssociatedObject"
+- !private "objc_setAssociatedObject"
+- !private "placeholderKey"
+- !private "||"
+depends-member:
+- !private ["10Kingfisher17ActivityIndicatorC", "deinit"]
+- !private ["10Kingfisher17ActivityIndicatorC", "init"]
+- !private ["Sa", "append"]
+- !private ["Sa", "forceTransition"]
+- !private ["Sa", "keepCurrentImageWhileLoading"]
+- !private ["Sa", "lastMatchIgnoringAssociatedValue"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- !private ["s23BidirectionalCollectionP", "forceTransition"]
+- !private ["s23BidirectionalCollectionP", "keepCurrentImageWhileLoading"]
+- !private ["s23BidirectionalCollectionP", "lastMatchIgnoringAssociatedValue"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["10Kingfisher3BoxC", "init"]
+- !private ["10Kingfisher3BoxC", "value"]
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "image"]
+- !private ["So15CALayerDelegateP", "isHidden"]
+- !private ["So15CALayerDelegateP", "removeFromSuperview"]
+- !private ["So15CALayerDelegateP", "shouldPreloadAllAnimation"]
+- !private ["So15CALayerDelegateP", "transition"]
+- !private ["SC7CGPointV", "init"]
+- !private ["SC6CGRectV", "midX"]
+- !private ["SC6CGRectV", "midY"]
+- !private ["SC6CGRectV", "zero"]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "forceTransition"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "isHidden"]
+- !private ["s7CVarArgP", "keepCurrentImageWhileLoading"]
+- !private ["s7CVarArgP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "removeFromSuperview"]
+- !private ["s7CVarArgP", "safeAsync"]
+- !private ["s7CVarArgP", "shouldPreloadAllAnimation"]
+- !private ["s7CVarArgP", "transition"]
+- !private ["10Kingfisher9CacheTypeO", "deinit"]
+- !private ["10Kingfisher9CacheTypeO", "none"]
+- !private ["s10CollectionP", "append"]
+- !private ["s10CollectionP", "forceTransition"]
+- !private ["s10CollectionP", "keepCurrentImageWhileLoading"]
+- !private ["s10CollectionP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "forceTransition"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isHidden"]
+- !private ["s28CustomDebugStringConvertibleP", "keepCurrentImageWhileLoading"]
+- !private ["s28CustomDebugStringConvertibleP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "midX"]
+- !private ["s28CustomDebugStringConvertibleP", "midY"]
+- !private ["s28CustomDebugStringConvertibleP", "none"]
+- !private ["s28CustomDebugStringConvertibleP", "removeFromSuperview"]
+- !private ["s28CustomDebugStringConvertibleP", "safeAsync"]
+- !private ["s28CustomDebugStringConvertibleP", "shouldPreloadAllAnimation"]
+- !private ["s28CustomDebugStringConvertibleP", "transition"]
+- !private ["s28CustomDebugStringConvertibleP", "zero"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "midX"]
+- !private ["s29CustomPlaygroundQuickLookableP", "midY"]
+- !private ["s29CustomPlaygroundQuickLookableP", "zero"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "forceTransition"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "keepCurrentImageWhileLoading"]
+- !private ["s17CustomReflectableP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s17CustomReflectableP", "midX"]
+- !private ["s17CustomReflectableP", "midY"]
+- !private ["s17CustomReflectableP", "none"]
+- !private ["s17CustomReflectableP", "zero"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "forceTransition"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "isHidden"]
+- !private ["s23CustomStringConvertibleP", "keepCurrentImageWhileLoading"]
+- !private ["s23CustomStringConvertibleP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "removeFromSuperview"]
+- !private ["s23CustomStringConvertibleP", "safeAsync"]
+- !private ["s23CustomStringConvertibleP", "shouldPreloadAllAnimation"]
+- !private ["s23CustomStringConvertibleP", "transition"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "append"]
+- !private ["s9DecodableP", "forceTransition"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "keepCurrentImageWhileLoading"]
+- !private ["s9DecodableP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s9DecodableP", "midX"]
+- !private ["s9DecodableP", "midY"]
+- !private ["s9DecodableP", "none"]
+- !private ["s9DecodableP", "zero"]
+- !private ["So14DispatchObjectC", "main"]
+- !private ["So14DispatchObjectC", "safeAsync"]
+- !private ["So13DispatchQueueC", "main"]
+- !private ["So13DispatchQueueC", "safeAsync"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "append"]
+- !private ["s9EncodableP", "forceTransition"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "keepCurrentImageWhileLoading"]
+- !private ["s9EncodableP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s9EncodableP", "midX"]
+- !private ["s9EncodableP", "midY"]
+- !private ["s9EncodableP", "none"]
+- !private ["s9EncodableP", "zero"]
+- !private ["s9EquatableP", "OBJC_ASSOCIATION_RETAIN_NONATOMIC"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "addSubview"]
+- !private ["s9EquatableP", "allowUserInteraction"]
+- !private ["s9EquatableP", "bounds"]
+- !private ["s9EquatableP", "frame"]
+- !private ["s9EquatableP", "image"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "isHidden"]
+- !private ["s9EquatableP", "main"]
+- !private ["s9EquatableP", "midX"]
+- !private ["s9EquatableP", "midY"]
+- !private ["s9EquatableP", "none"]
+- !private ["s9EquatableP", "removeFromSuperview"]
+- !private ["s9EquatableP", "safeAsync"]
+- !private ["s9EquatableP", "shouldPreloadAllAnimation"]
+- !private ["s9EquatableP", "transition"]
+- !private ["s9EquatableP", "zero"]
+- !private ["s25ExpressibleByArrayLiteralP", "allowUserInteraction"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "forceTransition"]
+- !private ["s25ExpressibleByArrayLiteralP", "keepCurrentImageWhileLoading"]
+- !private ["s25ExpressibleByArrayLiteralP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s23ExpressibleByNilLiteralP", "none"]
+- !private ["s23ExpressibleByNilLiteralP", "zero"]
+- !private ["s8HashableP", "OBJC_ASSOCIATION_RETAIN_NONATOMIC"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "addSubview"]
+- !private ["s8HashableP", "bounds"]
+- !private ["s8HashableP", "frame"]
+- !private ["s8HashableP", "image"]
+- !private ["s8HashableP", "isHidden"]
+- !private ["s8HashableP", "main"]
+- !private ["s8HashableP", "none"]
+- !private ["s8HashableP", "removeFromSuperview"]
+- !private ["s8HashableP", "safeAsync"]
+- !private ["s8HashableP", "shouldPreloadAllAnimation"]
+- !private ["s8HashableP", "transition"]
+- !private ["10Kingfisher14ImageIndicatorC", "deinit"]
+- !private ["10Kingfisher14ImageIndicatorC", "init"]
+- !private ["10Kingfisher15ImageTransitionO", "animationOptions"]
+- !private ["10Kingfisher15ImageTransitionO", "animations"]
+- !private ["10Kingfisher15ImageTransitionO", "completion"]
+- !private ["10Kingfisher15ImageTransitionO", "duration"]
+- !private ["10Kingfisher15ImageTransitionO", "none"]
+- !private ["10Kingfisher9IndicatorP", "init"]
+- !private ["10Kingfisher9IndicatorP", "startAnimatingView"]
+- !private ["10Kingfisher9IndicatorP", "stopAnimatingView"]
+- !private ["10Kingfisher9IndicatorP", "view"]
+- !private ["10Kingfisher9IndicatorP", "viewCenter"]
+- ["10Kingfisher13IndicatorTypeO", "activity"]
+- ["10Kingfisher13IndicatorTypeO", "custom"]
+- ["10Kingfisher13IndicatorTypeO", "image"]
+- ["10Kingfisher13IndicatorTypeO", "none"]
+- !private ["10KingfisherAAC", "ActivityIndicator"]
+- !private ["10KingfisherAAC", "Box"]
+- !private ["10KingfisherAAC", "CGPoint"]
+- ["10KingfisherAAC", "CompletionHandler"]
+- !private ["10KingfisherAAC", "DispatchQueue"]
+- ["10KingfisherAAC", "DownloadProgressBlock"]
+- !private ["10KingfisherAAC", "ImageIndicator"]
+- ["10KingfisherAAC", "ImageView"]
+- ["10KingfisherAAC", "Indicator"]
+- ["10KingfisherAAC", "IndicatorType"]
+- !private ["10KingfisherAAC", "KingfisherEmptyOptionsInfo"]
+- !private ["10KingfisherAAC", "KingfisherManager"]
+- ["10KingfisherAAC", "KingfisherOptionsInfo"]
+- ["10KingfisherAAC", "Placeholder"]
+- ["10KingfisherAAC", "Resource"]
+- ["10KingfisherAAC", "RetrieveImageTask"]
+- !private ["10KingfisherAAC", "UIView"]
+- ["10KingfisherAAC", "URL"]
+- !private ["10KingfisherAAC", "base"]
+- ["10KingfisherAAC", "cancelDownloadTask"]
+- !private ["10KingfisherAAC", "imageTask"]
+- !private ["10KingfisherAAC", "imageTaskKey"]
+- ["10KingfisherAAC", "indicator"]
+- !private ["10KingfisherAAC", "indicatorKey"]
+- ["10KingfisherAAC", "indicatorType"]
+- !private ["10KingfisherAAC", "indicatorTypeKey"]
+- !private ["10KingfisherAAC", "lastURLKey"]
+- !private ["10KingfisherAAC", "objc_getAssociatedObject"]
+- !private ["10KingfisherAAC", "objc_setAssociatedObject"]
+- ["10KingfisherAAC", "placeholder"]
+- !private ["10KingfisherAAC", "placeholderKey"]
+- ["10KingfisherAAC", "setImage"]
+- !private ["10KingfisherAAC", "setImageTask"]
+- !private ["10KingfisherAAC", "setWebURL"]
+- ["10KingfisherAAC", "webURL"]
+- !private ["10Kingfisher0A10CompatibleP", "addSubview"]
+- !private ["10Kingfisher0A10CompatibleP", "bounds"]
+- !private ["10Kingfisher0A10CompatibleP", "frame"]
+- !private ["10Kingfisher0A10CompatibleP", "image"]
+- !private ["10Kingfisher0A10CompatibleP", "shouldPreloadAllAnimation"]
+- !private ["10Kingfisher0A7ManagerC", "defaultOptions"]
+- !private ["10Kingfisher0A7ManagerC", "retrieveImage"]
+- !private ["10Kingfisher0A7ManagerC", "shared"]
+- !private ["10Kingfisher0A15OptionsInfoItemO", "preloadAllAnimationData"]
+- !private ["10Kingfisher0A15OptionsInfoItemO", "transition"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s17MutableCollectionP", "append"]
+- !private ["s17MutableCollectionP", "forceTransition"]
+- !private ["s17MutableCollectionP", "keepCurrentImageWhileLoading"]
+- !private ["s17MutableCollectionP", "lastMatchIgnoringAssociatedValue"]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "image"]
+- !private ["So8NSCodingP", "isHidden"]
+- !private ["So8NSCodingP", "removeFromSuperview"]
+- !private ["So8NSCodingP", "shouldPreloadAllAnimation"]
+- !private ["So8NSCodingP", "transition"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "addSubview"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "frame"]
+- !private ["So8NSObjectC", "image"]
+- !private ["So8NSObjectC", "isHidden"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "removeFromSuperview"]
+- !private ["So8NSObjectC", "safeAsync"]
+- ["So8NSObjectC", "shouldPreloadAllAnimation"]
+- !private ["So8NSObjectC", "transition"]
+- !private ["So16NSObjectProtocolP", "addSubview"]
+- !private ["So16NSObjectProtocolP", "bounds"]
+- !private ["So16NSObjectProtocolP", "frame"]
+- !private ["So16NSObjectProtocolP", "image"]
+- !private ["So16NSObjectProtocolP", "isHidden"]
+- !private ["So16NSObjectProtocolP", "main"]
+- !private ["So16NSObjectProtocolP", "removeFromSuperview"]
+- !private ["So16NSObjectProtocolP", "safeAsync"]
+- !private ["So16NSObjectProtocolP", "shouldPreloadAllAnimation"]
+- !private ["So16NSObjectProtocolP", "transition"]
+- !private ["So9OS_objectC", "main"]
+- !private ["So9OS_objectC", "safeAsync"]
+- !private ["s9OptionSetP", "allowUserInteraction"]
+- !private ["Sq", "none"]
+- !private ["Sq", "zero"]
+- !private ["10Kingfisher11PlaceholderP", "add"]
+- !private ["10Kingfisher11PlaceholderP", "remove"]
+- !private ["s22RandomAccessCollectionP", "append"]
+- !private ["s22RandomAccessCollectionP", "forceTransition"]
+- !private ["s22RandomAccessCollectionP", "keepCurrentImageWhileLoading"]
+- !private ["s22RandomAccessCollectionP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "forceTransition"]
+- !private ["s26RangeReplaceableCollectionP", "keepCurrentImageWhileLoading"]
+- !private ["s26RangeReplaceableCollectionP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s16RawRepresentableP", "OBJC_ASSOCIATION_RETAIN_NONATOMIC"]
+- !private ["s16RawRepresentableP", "allowUserInteraction"]
+- !private ["10Kingfisher8ResourceP", "downloadURL"]
+- !private ["10Kingfisher17RetrieveImageTaskC", "cancel"]
+- !private ["10Kingfisher17RetrieveImageTaskC", "empty"]
+- !private ["s8SequenceP", "append"]
+- !private ["s8SequenceP", "forceTransition"]
+- !private ["s8SequenceP", "keepCurrentImageWhileLoading"]
+- !private ["s8SequenceP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s10SetAlgebraP", "allowUserInteraction"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "addSubview"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "bounds"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "frame"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "shouldPreloadAllAnimation"]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "isHidden"]
+- !private ["So29UIAccessibilityIdentificationP", "removeFromSuperview"]
+- !private ["So29UIAccessibilityIdentificationP", "shouldPreloadAllAnimation"]
+- !private ["So29UIAccessibilityIdentificationP", "transition"]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "image"]
+- !private ["So12UIAppearanceP", "isHidden"]
+- !private ["So12UIAppearanceP", "removeFromSuperview"]
+- !private ["So12UIAppearanceP", "shouldPreloadAllAnimation"]
+- !private ["So12UIAppearanceP", "transition"]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- !private ["So21UIAppearanceContainerP", "isHidden"]
+- !private ["So21UIAppearanceContainerP", "removeFromSuperview"]
+- !private ["So21UIAppearanceContainerP", "shouldPreloadAllAnimation"]
+- !private ["So21UIAppearanceContainerP", "transition"]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "image"]
+- !private ["So17UICoordinateSpaceP", "isHidden"]
+- !private ["So17UICoordinateSpaceP", "removeFromSuperview"]
+- !private ["So17UICoordinateSpaceP", "shouldPreloadAllAnimation"]
+- !private ["So17UICoordinateSpaceP", "transition"]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "image"]
+- !private ["So13UIDynamicItemP", "isHidden"]
+- !private ["So13UIDynamicItemP", "removeFromSuperview"]
+- !private ["So13UIDynamicItemP", "shouldPreloadAllAnimation"]
+- !private ["So13UIDynamicItemP", "transition"]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- !private ["So18UIFocusEnvironmentP", "isHidden"]
+- !private ["So18UIFocusEnvironmentP", "removeFromSuperview"]
+- !private ["So18UIFocusEnvironmentP", "shouldPreloadAllAnimation"]
+- !private ["So18UIFocusEnvironmentP", "transition"]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "image"]
+- !private ["So11UIFocusItemP", "isHidden"]
+- !private ["So11UIFocusItemP", "removeFromSuperview"]
+- !private ["So11UIFocusItemP", "shouldPreloadAllAnimation"]
+- !private ["So11UIFocusItemP", "transition"]
+- ["So11UIImageViewC", "Bool"]
+- !private ["So11UIImageViewC", "addSubview"]
+- !private ["So11UIImageViewC", "bounds"]
+- !private ["So11UIImageViewC", "frame"]
+- !private ["So11UIImageViewC", "image"]
+- ["So11UIImageViewC", "shouldPreloadAllAnimation"]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- !private ["So30UIPasteConfigurationSupportingP", "isHidden"]
+- !private ["So30UIPasteConfigurationSupportingP", "removeFromSuperview"]
+- !private ["So30UIPasteConfigurationSupportingP", "shouldPreloadAllAnimation"]
+- !private ["So30UIPasteConfigurationSupportingP", "transition"]
+- ["So11UIResponderC", "Bool"]
+- !private ["So11UIResponderC", "addSubview"]
+- !private ["So11UIResponderC", "bounds"]
+- !private ["So11UIResponderC", "frame"]
+- !private ["So11UIResponderC", "image"]
+- !private ["So11UIResponderC", "isHidden"]
+- !private ["So11UIResponderC", "removeFromSuperview"]
+- ["So11UIResponderC", "shouldPreloadAllAnimation"]
+- !private ["So11UIResponderC", "transition"]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- !private ["So30UIResponderStandardEditActionsP", "isHidden"]
+- !private ["So30UIResponderStandardEditActionsP", "removeFromSuperview"]
+- !private ["So30UIResponderStandardEditActionsP", "shouldPreloadAllAnimation"]
+- !private ["So30UIResponderStandardEditActionsP", "transition"]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- !private ["So18UITraitEnvironmentP", "isHidden"]
+- !private ["So18UITraitEnvironmentP", "removeFromSuperview"]
+- !private ["So18UITraitEnvironmentP", "shouldPreloadAllAnimation"]
+- !private ["So18UITraitEnvironmentP", "transition"]
+- ["So6UIViewC", "Bool"]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "bounds"]
+- !private ["So6UIViewC", "frame"]
+- !private ["So6UIViewC", "image"]
+- !private ["So6UIViewC", "isHidden"]
+- !private ["So6UIViewC", "removeFromSuperview"]
+- ["So6UIViewC", "shouldPreloadAllAnimation"]
+- !private ["So6UIViewC", "transition"]
+- !private ["SC22UIViewAnimationOptionsV", "allowUserInteraction"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "forceTransition"]
+- !private ["s14_ArrayProtocolP", "keepCurrentImageWhileLoading"]
+- !private ["s14_ArrayProtocolP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s23_BidirectionalIndexableP", "append"]
+- !private ["s23_BidirectionalIndexableP", "forceTransition"]
+- !private ["s23_BidirectionalIndexableP", "keepCurrentImageWhileLoading"]
+- !private ["s23_BidirectionalIndexableP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isHidden"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "removeFromSuperview"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "shouldPreloadAllAnimation"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "transition"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "forceTransition"]
+- !private ["s24_DestructorSafeContainerP", "keepCurrentImageWhileLoading"]
+- !private ["s24_DestructorSafeContainerP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s10_IndexableP", "append"]
+- !private ["s10_IndexableP", "forceTransition"]
+- !private ["s10_IndexableP", "keepCurrentImageWhileLoading"]
+- !private ["s10_IndexableP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s14_IndexableBaseP", "append"]
+- !private ["s14_IndexableBaseP", "forceTransition"]
+- !private ["s14_IndexableBaseP", "keepCurrentImageWhileLoading"]
+- !private ["s14_IndexableBaseP", "lastMatchIgnoringAssociatedValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isHidden"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeFromSuperview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "safeAsync"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shouldPreloadAllAnimation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transition"]
+- !private ["s17_MutableIndexableP", "append"]
+- !private ["s17_MutableIndexableP", "forceTransition"]
+- !private ["s17_MutableIndexableP", "keepCurrentImageWhileLoading"]
+- !private ["s17_MutableIndexableP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "forceTransition"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "keepCurrentImageWhileLoading"]
+- !private ["s21_ObjectiveCBridgeableP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s21_ObjectiveCBridgeableP", "midX"]
+- !private ["s21_ObjectiveCBridgeableP", "midY"]
+- !private ["s21_ObjectiveCBridgeableP", "none"]
+- !private ["s21_ObjectiveCBridgeableP", "zero"]
+- !private ["s26_OptionalNilComparisonTypeV", "none"]
+- !private ["s26_OptionalNilComparisonTypeV", "zero"]
+- !private ["s22_RandomAccessIndexableP", "append"]
+- !private ["s22_RandomAccessIndexableP", "forceTransition"]
+- !private ["s22_RandomAccessIndexableP", "keepCurrentImageWhileLoading"]
+- !private ["s22_RandomAccessIndexableP", "lastMatchIgnoringAssociatedValue"]
+- !private ["s26_RangeReplaceableIndexableP", "append"]
+- !private ["s26_RangeReplaceableIndexableP", "forceTransition"]
+- !private ["s26_RangeReplaceableIndexableP", "keepCurrentImageWhileLoading"]
+- !private ["s26_RangeReplaceableIndexableP", "lastMatchIgnoringAssociatedValue"]
+- !private ["SC22objc_AssociationPolicyO", "OBJC_ASSOCIATION_RETAIN_NONATOMIC"]
+depends-nominal:
+- !private "10Kingfisher17ActivityIndicatorC"
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "10Kingfisher3BoxC"
+- !private "So15CALayerDelegateP"
+- !private "SC7CGPointV"
+- !private "SC6CGRectV"
+- !private "s7CVarArgP"
+- !private "10Kingfisher9CacheTypeO"
+- !private "s10CollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "So14DispatchObjectC"
+- !private "So13DispatchQueueC"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s8HashableP"
+- !private "10Kingfisher14ImageIndicatorC"
+- !private "10Kingfisher15ImageTransitionO"
+- !private "10Kingfisher9IndicatorP"
+- "10Kingfisher13IndicatorTypeO"
+- "10KingfisherAAC"
+- !private "10Kingfisher0A10CompatibleP"
+- !private "10Kingfisher0A7ManagerC"
+- !private "10Kingfisher0A15OptionsInfoItemO"
+- !private "s25LosslessStringConvertibleP"
+- !private "s17MutableCollectionP"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So9OS_objectC"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "10Kingfisher11PlaceholderP"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "10Kingfisher8ResourceP"
+- !private "10Kingfisher17RetrieveImageTaskC"
+- !private "s8SequenceP"
+- !private "s10SetAlgebraP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So11UIImageViewC"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- "So6UIViewC"
+- !private "SC22UIViewAnimationOptionsV"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_OptionalNilComparisonTypeV"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "SC22objc_AssociationPolicyO"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Accelerate.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/Target Support Files/Kingfisher/Kingfisher-umbrella.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/Kingfisher/Sources/Kingfisher.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Intermediates/Pods.build/Debug-iphoneos/Kingfisher.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "f2cbb0d5b0d793cbff964ac2a411923b"

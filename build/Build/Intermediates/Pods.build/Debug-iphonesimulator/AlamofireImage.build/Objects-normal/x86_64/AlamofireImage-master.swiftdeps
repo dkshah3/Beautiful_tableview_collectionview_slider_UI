@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "c89504f77e20dbfc71bde3cb16e8ddfe"
+build_time: [1538153418, 118129000]
+inputs:
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/AlamofireImage/Source/AFIError.swift": [1509997858, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/AlamofireImage/Source/Image.swift": [1509997858, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/AlamofireImage/Source/ImageCache.swift": [1509997858, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/AlamofireImage/Source/ImageDownloader.swift": [1509997858, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/AlamofireImage/Source/ImageFilter.swift": [1509997858, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1509997858, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1509997858, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1509997858, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1509997858, 0]

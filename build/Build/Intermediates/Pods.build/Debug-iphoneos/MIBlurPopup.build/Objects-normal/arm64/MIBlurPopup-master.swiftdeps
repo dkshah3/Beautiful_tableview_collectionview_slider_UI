@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "7fa85f968451f25eb719911c77dc14ed"
+build_time: [1510168867, 119597000]
+inputs:
+  "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/MIBlurPopup/MIBlurPopup/MIBlurPopup.swift": [1509833566, 0]

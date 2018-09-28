@@ -1,0 +1,414 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CollectionViewCellIdentifiable"
+provides-nominal:
+- "5Trofi30CollectionViewCellIdentifiableP"
+- "So20UICollectionViewCellC"
+provides-member:
+- ["So16UICollectionViewC", ""]
+- ["5Trofi30CollectionViewCellIdentifiableP", ""]
+- ["So20UICollectionViewCellC", ""]
+- ["So16UICollectionViewC", "getReusableCellWithIdentifier"]
+- ["5Trofi30CollectionViewCellIdentifiableP", "cellIdentifier"]
+provides-dynamic-lookup:
+depends-top-level:
+- "CastingPrecedence"
+- "CollectionViewCellIdentifiable"
+- "IndexPath"
+- "String"
+- !private "StringLiteralType"
+- "UICollectionView"
+- "UICollectionViewCell"
+- !private "UnicodeScalarType"
+- !private "fatalError"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["So15CALayerDelegateP", "String"]
+- ["So15CALayerDelegateP", "cellIdentifier"]
+- !private ["So15CALayerDelegateP", "dequeueReusableCell"]
+- !private ["So15CALayerDelegateP", "fatalError"]
+- !private ["s7CVarArgP", "String"]
+- ["s7CVarArgP", "cellIdentifier"]
+- !private ["s7CVarArgP", "dequeueReusableCell"]
+- !private ["s7CVarArgP", "fatalError"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s10CollectionP", "init"]
+- ["5Trofi30CollectionViewCellIdentifiableP", "String"]
+- ["5Trofi30CollectionViewCellIdentifiableP", "UICollectionViewCell"]
+- ["5Trofi30CollectionViewCellIdentifiableP", "cellIdentifier"]
+- ["5Trofi30CollectionViewCellIdentifiableP", ""]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- ["s28CustomDebugStringConvertibleP", "cellIdentifier"]
+- !private ["s28CustomDebugStringConvertibleP", "dequeueReusableCell"]
+- !private ["s28CustomDebugStringConvertibleP", "fatalError"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- ["s23CustomStringConvertibleP", "cellIdentifier"]
+- !private ["s23CustomStringConvertibleP", "dequeueReusableCell"]
+- !private ["s23CustomStringConvertibleP", "fatalError"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "String"]
+- ["s9EquatableP", "cellIdentifier"]
+- !private ["s9EquatableP", "dequeueReusableCell"]
+- !private ["s9EquatableP", "fatalError"]
+- !private ["s9EquatableP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "String"]
+- ["s8HashableP", "cellIdentifier"]
+- !private ["s8HashableP", "dequeueReusableCell"]
+- !private ["s8HashableP", "fatalError"]
+- !private ["s8HashableP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10Kingfisher0A10CompatibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "String"]
+- ["So8NSCodingP", "cellIdentifier"]
+- !private ["So8NSCodingP", "dequeueReusableCell"]
+- !private ["So8NSCodingP", "fatalError"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "CollectionViewCellIdentifiable"]
+- ["So8NSObjectC", "IndexPath"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UICollectionViewCell"]
+- ["So8NSObjectC", "cellIdentifier"]
+- !private ["So8NSObjectC", "dequeueReusableCell"]
+- !private ["So8NSObjectC", "fatalError"]
+- ["So8NSObjectC", "getReusableCellWithIdentifier"]
+- !private ["So16NSObjectProtocolP", "String"]
+- ["So16NSObjectProtocolP", "cellIdentifier"]
+- !private ["So16NSObjectProtocolP", "dequeueReusableCell"]
+- !private ["So16NSObjectProtocolP", "fatalError"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "String"]
+- ["So29UIAccessibilityIdentificationP", "cellIdentifier"]
+- !private ["So29UIAccessibilityIdentificationP", "dequeueReusableCell"]
+- !private ["So29UIAccessibilityIdentificationP", "fatalError"]
+- !private ["So12UIAppearanceP", "String"]
+- ["So12UIAppearanceP", "cellIdentifier"]
+- !private ["So12UIAppearanceP", "dequeueReusableCell"]
+- !private ["So12UIAppearanceP", "fatalError"]
+- !private ["So21UIAppearanceContainerP", "String"]
+- ["So21UIAppearanceContainerP", "cellIdentifier"]
+- !private ["So21UIAppearanceContainerP", "dequeueReusableCell"]
+- !private ["So21UIAppearanceContainerP", "fatalError"]
+- ["So24UICollectionReusableViewC", "String"]
+- ["So24UICollectionReusableViewC", "cellIdentifier"]
+- ["So16UICollectionViewC", "CollectionViewCellIdentifiable"]
+- ["So16UICollectionViewC", "IndexPath"]
+- ["So16UICollectionViewC", "UICollectionViewCell"]
+- !private ["So16UICollectionViewC", "dequeueReusableCell"]
+- !private ["So16UICollectionViewC", "fatalError"]
+- ["So16UICollectionViewC", "getReusableCellWithIdentifier"]
+- ["So20UICollectionViewCellC", "String"]
+- ["So20UICollectionViewCellC", "cellIdentifier"]
+- ["So20UICollectionViewCellC", "deinit"]
+- !private ["So17UICoordinateSpaceP", "String"]
+- ["So17UICoordinateSpaceP", "cellIdentifier"]
+- !private ["So17UICoordinateSpaceP", "dequeueReusableCell"]
+- !private ["So17UICoordinateSpaceP", "fatalError"]
+- !private ["So23UIDataSourceTranslatingP", "dequeueReusableCell"]
+- !private ["So23UIDataSourceTranslatingP", "fatalError"]
+- !private ["So13UIDynamicItemP", "String"]
+- ["So13UIDynamicItemP", "cellIdentifier"]
+- !private ["So13UIDynamicItemP", "dequeueReusableCell"]
+- !private ["So13UIDynamicItemP", "fatalError"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- ["So18UIFocusEnvironmentP", "cellIdentifier"]
+- !private ["So18UIFocusEnvironmentP", "dequeueReusableCell"]
+- !private ["So18UIFocusEnvironmentP", "fatalError"]
+- !private ["So11UIFocusItemP", "String"]
+- ["So11UIFocusItemP", "cellIdentifier"]
+- !private ["So11UIFocusItemP", "dequeueReusableCell"]
+- !private ["So11UIFocusItemP", "fatalError"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- ["So30UIPasteConfigurationSupportingP", "cellIdentifier"]
+- !private ["So30UIPasteConfigurationSupportingP", "dequeueReusableCell"]
+- !private ["So30UIPasteConfigurationSupportingP", "fatalError"]
+- ["So11UIResponderC", "CollectionViewCellIdentifiable"]
+- ["So11UIResponderC", "IndexPath"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UICollectionViewCell"]
+- ["So11UIResponderC", "cellIdentifier"]
+- !private ["So11UIResponderC", "dequeueReusableCell"]
+- !private ["So11UIResponderC", "fatalError"]
+- ["So11UIResponderC", "getReusableCellWithIdentifier"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- ["So30UIResponderStandardEditActionsP", "cellIdentifier"]
+- !private ["So30UIResponderStandardEditActionsP", "dequeueReusableCell"]
+- !private ["So30UIResponderStandardEditActionsP", "fatalError"]
+- ["So12UIScrollViewC", "CollectionViewCellIdentifiable"]
+- ["So12UIScrollViewC", "IndexPath"]
+- ["So12UIScrollViewC", "UICollectionViewCell"]
+- !private ["So12UIScrollViewC", "dequeueReusableCell"]
+- !private ["So12UIScrollViewC", "fatalError"]
+- ["So12UIScrollViewC", "getReusableCellWithIdentifier"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "dequeueReusableCell"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "fatalError"]
+- !private ["So18UITraitEnvironmentP", "String"]
+- ["So18UITraitEnvironmentP", "cellIdentifier"]
+- !private ["So18UITraitEnvironmentP", "dequeueReusableCell"]
+- !private ["So18UITraitEnvironmentP", "fatalError"]
+- ["So6UIViewC", "CollectionViewCellIdentifiable"]
+- ["So6UIViewC", "IndexPath"]
+- ["So6UIViewC", "String"]
+- ["So6UIViewC", "UICollectionViewCell"]
+- ["So6UIViewC", "cellIdentifier"]
+- !private ["So6UIViewC", "dequeueReusableCell"]
+- !private ["So6UIViewC", "fatalError"]
+- ["So6UIViewC", "getReusableCellWithIdentifier"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "String"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", "cellIdentifier"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "dequeueReusableCell"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "fatalError"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "cellIdentifier"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dequeueReusableCell"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fatalError"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- "5Trofi30CollectionViewCellIdentifiableP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "10Kingfisher0A10CompatibleP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "s12StaticStringV"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So24UICollectionReusableViewC"
+- "So16UICollectionViewC"
+- "So20UICollectionViewCellC"
+- "So17UICoordinateSpaceP"
+- !private "So23UIDataSourceTranslatingP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So12UIScrollViewC"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So18UITraitEnvironmentP"
+- "So6UIViewC"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s23_BidirectionalIndexableP"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/AlamofireImage.swiftmodule/x86_64.swiftmodule"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/FoldingCell/FoldingCell.framework/Modules/FoldingCell.swiftmodule/x86_64.swiftmodule"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/MIBlurPopup/MIBlurPopup.framework/Modules/MIBlurPopup.swiftmodule/x86_64.swiftmodule"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64.swiftmodule"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/CollectionViewShelfLayout/CollectionViewShelfLayout.framework/Modules/CollectionViewShelfLayout.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-umbrella.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFNetworking-umbrella.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/FoldingCell/FoldingCell.framework/Headers/FoldingCell-umbrella.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/MIBlurPopup/MIBlurPopup.framework/Headers/MIBlurPopup-umbrella.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/CollectionViewShelfLayout/CollectionViewShelfLayout.framework/Headers/CollectionViewShelfLayout-umbrella.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFAutoPurgingImageCache.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/UIImage+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/UIRefreshControl+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/UIButton+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/UIKit+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/UIWebView+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/UIImageView+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/UIActivityIndicatorView+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/UIProgressView+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFURLResponseSerialization.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFURLRequestSerialization.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/Trofi-Bridging-Header.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFImageDownloader.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFURLSessionManager.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFHTTPSessionManager.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFNetworkActivityIndicatorManager.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFNetworkReachabilityManager.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/FoldingCell/FoldingCell.framework/Headers/FoldingCell-Swift.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/MIBlurPopup/MIBlurPopup.framework/Headers/MIBlurPopup-Swift.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/CollectionViewShelfLayout/CollectionViewShelfLayout.framework/Headers/CollectionViewShelfLayout-Swift.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRCoreSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFSecurityPolicy.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi-Beta-Leftovers-master 2 2/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/FoldingCell/FoldingCell.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/MIBlurPopup/MIBlurPopup.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/build/Build/Products/Debug-iphonesimulator/CollectionViewShelfLayout/CollectionViewShelfLayout.framework/Modules/module.modulemap"
+interface-hash: "6ae3b8b743087a9ac52a1681a68ef86d"

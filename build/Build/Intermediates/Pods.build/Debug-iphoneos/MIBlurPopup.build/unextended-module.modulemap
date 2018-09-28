@@ -1,0 +1,10 @@
+framework module MIBlurPopup {
+  umbrella header "MIBlurPopup-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module MIBlurPopup.__Swift {
+    exclude header "MIBlurPopup-Swift.h"
+}

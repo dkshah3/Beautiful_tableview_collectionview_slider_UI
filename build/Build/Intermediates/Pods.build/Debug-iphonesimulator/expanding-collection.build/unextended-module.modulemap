@@ -1,0 +1,10 @@
+framework module expanding_collection {
+  umbrella header "expanding-collection-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module expanding_collection.__Swift {
+    exclude header "expanding_collection-Swift.h"
+}

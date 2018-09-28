@@ -1,0 +1,189 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Image"
+- "Color"
+- "ImageView"
+- "View"
+- "Button"
+- "Kingfisher"
+- "KingfisherCompatible"
+provides-nominal:
+- "10KingfisherAAC"
+- "10Kingfisher0A10CompatibleP"
+- "So7UIImageC"
+- "So11UIImageViewC"
+- "So8UIButtonC"
+provides-member:
+- ["10KingfisherAAC", ""]
+- ["10Kingfisher0A10CompatibleP", ""]
+- ["So7UIImageC", ""]
+- ["So11UIImageViewC", ""]
+- ["So8UIButtonC", ""]
+- ["10Kingfisher0A10CompatibleP", "kf"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "Button"
+- "Color"
+- "Image"
+- "ImageView"
+- "Kingfisher"
+- "KingfisherCompatible"
+- "UIButton"
+- "UIColor"
+- "UIImage"
+- "UIImageView"
+- "UIView"
+- "View"
+depends-member:
+- ["So15CALayerDelegateP", "CompatibleType"]
+- ["So15CALayerDelegateP", "kf"]
+- ["s7CVarArgP", "CompatibleType"]
+- ["s7CVarArgP", "kf"]
+- ["s28CustomDebugStringConvertibleP", "CompatibleType"]
+- ["s28CustomDebugStringConvertibleP", "kf"]
+- ["s23CustomStringConvertibleP", "CompatibleType"]
+- ["s23CustomStringConvertibleP", "kf"]
+- ["s9EquatableP", "CompatibleType"]
+- ["s9EquatableP", "kf"]
+- ["s8HashableP", "CompatibleType"]
+- ["s8HashableP", "kf"]
+- ["10KingfisherAAC", "Base"]
+- ["10KingfisherAAC", "base"]
+- ["10KingfisherAAC", "deinit"]
+- ["10KingfisherAAC", "init"]
+- ["10Kingfisher0A10CompatibleP", "CompatibleType"]
+- ["10Kingfisher0A10CompatibleP", "Kingfisher"]
+- ["10Kingfisher0A10CompatibleP", "Self"]
+- ["10Kingfisher0A10CompatibleP", "kf"]
+- ["10Kingfisher0A10CompatibleP", ""]
+- ["So8NSCodingP", "CompatibleType"]
+- ["So8NSCodingP", "kf"]
+- ["So21NSItemProviderReadingP", "CompatibleType"]
+- ["So21NSItemProviderReadingP", "kf"]
+- ["So21NSItemProviderWritingP", "CompatibleType"]
+- ["So21NSItemProviderWritingP", "kf"]
+- ["So8NSObjectC", "CompatibleType"]
+- ["So8NSObjectC", "kf"]
+- ["So16NSObjectProtocolP", "CompatibleType"]
+- ["So16NSObjectProtocolP", "kf"]
+- ["So14NSSecureCodingP", "CompatibleType"]
+- ["So14NSSecureCodingP", "kf"]
+- ["10Kingfisher11PlaceholderP", "CompatibleType"]
+- ["10Kingfisher11PlaceholderP", "kf"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "CompatibleType"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "kf"]
+- ["So29UIAccessibilityIdentificationP", "CompatibleType"]
+- ["So29UIAccessibilityIdentificationP", "kf"]
+- ["So12UIAppearanceP", "CompatibleType"]
+- ["So12UIAppearanceP", "kf"]
+- ["So21UIAppearanceContainerP", "CompatibleType"]
+- ["So21UIAppearanceContainerP", "kf"]
+- ["So8UIButtonC", "CompatibleType"]
+- ["So8UIButtonC", "deinit"]
+- ["So8UIButtonC", "kf"]
+- ["So9UIControlC", "CompatibleType"]
+- ["So9UIControlC", "kf"]
+- ["So17UICoordinateSpaceP", "CompatibleType"]
+- ["So17UICoordinateSpaceP", "kf"]
+- ["So13UIDynamicItemP", "CompatibleType"]
+- ["So13UIDynamicItemP", "kf"]
+- ["So18UIFocusEnvironmentP", "CompatibleType"]
+- ["So18UIFocusEnvironmentP", "kf"]
+- ["So11UIFocusItemP", "CompatibleType"]
+- ["So11UIFocusItemP", "kf"]
+- ["So7UIImageC", "CompatibleType"]
+- ["So7UIImageC", "deinit"]
+- ["So7UIImageC", "kf"]
+- ["So11UIImageViewC", "CompatibleType"]
+- ["So11UIImageViewC", "deinit"]
+- ["So11UIImageViewC", "kf"]
+- ["So39UIItemProviderPresentationSizeProvidingP", "CompatibleType"]
+- ["So39UIItemProviderPresentationSizeProvidingP", "kf"]
+- ["So30UIPasteConfigurationSupportingP", "CompatibleType"]
+- ["So30UIPasteConfigurationSupportingP", "kf"]
+- ["So11UIResponderC", "CompatibleType"]
+- ["So11UIResponderC", "kf"]
+- ["So30UIResponderStandardEditActionsP", "CompatibleType"]
+- ["So30UIResponderStandardEditActionsP", "kf"]
+- ["So35UISpringLoadedInteractionSupportingP", "CompatibleType"]
+- ["So35UISpringLoadedInteractionSupportingP", "kf"]
+- ["So18UITraitEnvironmentP", "CompatibleType"]
+- ["So18UITraitEnvironmentP", "kf"]
+- ["So6UIViewC", "CompatibleType"]
+- ["So6UIViewC", "kf"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", "CompatibleType"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", "kf"]
+- ["s26_ExpressibleByImageLiteralP", "CompatibleType"]
+- ["s26_ExpressibleByImageLiteralP", "kf"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CompatibleType"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "kf"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "s8HashableP"
+- "10KingfisherAAC"
+- "10Kingfisher0A10CompatibleP"
+- "So8NSCodingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "10Kingfisher11PlaceholderP"
+- "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So8UIButtonC"
+- "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So7UIImageC"
+- "So11UIImageViewC"
+- "So39UIItemProviderPresentationSizeProvidingP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So35UISpringLoadedInteractionSupportingP"
+- "So18UITraitEnvironmentP"
+- "So6UIViewC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- "s26_ExpressibleByImageLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Accelerate.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/Target Support Files/Kingfisher/Kingfisher-umbrella.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/Kingfisher/Sources/Kingfisher.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Intermediates/Pods.build/Debug-iphoneos/Kingfisher.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "a6a2b6ca5ba39c7574c65095ba7b6c87"

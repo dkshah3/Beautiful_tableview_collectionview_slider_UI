@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "de82730c00c99ffdf36e3e0a4e399b49"
+build_time: [1509833005, 954290000]
+inputs:
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/CollectionViewShelfLayout/CollectionViewShelfLayout/CollectionViewShelfLayout.swift": !dirty [1509727087, 0]

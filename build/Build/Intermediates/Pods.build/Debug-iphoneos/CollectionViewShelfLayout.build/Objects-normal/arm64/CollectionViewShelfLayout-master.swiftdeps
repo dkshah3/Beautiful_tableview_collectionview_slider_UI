@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "3158331073c3f158b14388000a2cdcfd"
+build_time: [1510168826, 113551000]
+inputs:
+  "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/CollectionViewShelfLayout/CollectionViewShelfLayout/CollectionViewShelfLayout.swift": [1509833224, 0]

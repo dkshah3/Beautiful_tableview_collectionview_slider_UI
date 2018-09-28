@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "9cade66a644d8ab98ac12ca68f422c7b"
+build_time: [1510532785, 463019000]
+inputs:
+  "/Users/dhrumilshah/Desktop/Trofi UofC v1 2/Pods/RAMPaperSwitch/PaperSwitch/RAMPaperSwitch.swift": [1500927618, 0]

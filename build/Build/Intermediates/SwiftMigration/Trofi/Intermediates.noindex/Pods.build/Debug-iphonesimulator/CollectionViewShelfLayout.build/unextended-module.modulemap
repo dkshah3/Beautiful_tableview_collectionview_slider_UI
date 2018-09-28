@@ -1,0 +1,10 @@
+framework module CollectionViewShelfLayout {
+  umbrella header "CollectionViewShelfLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module CollectionViewShelfLayout.__Swift {
+    exclude header "CollectionViewShelfLayout-Swift.h"
+}

@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "0dd55b0cb921ac68a37388ab7d77e17c"
+build_time: [1538153422, 271328000]
+inputs:
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/models/Vendors.swift": [1510197103, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/Controllers/ViewController.swift": [1503423268, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/services/CollectionViewHelper.swift": [1503609347, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/Controllers/MainTableViewController.swift": [1510252591, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/Controllers/PopupViewController.swift": [1506656230, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/Controllers/TimerController2.swift": [1500924051, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/views/MapViewController.swift": [1508042916, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/Controllers/TimerController.swift": [1500922365, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/views/DemoCell.swift": [1510040976, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/supporting/DGRunkeeperSwitch.swift": [1507408251, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/supporting/FileManager.swift": [1503522404, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/models/Food.swift": [1510168806, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/AppDelegate.swift": [1507594606, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/Controllers/FoodCollectionViewController.swift": [1508020700, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Pods/FoldingCell/FoldingCell/FoldingCell/FoldingCell/FoldingCell.swift": [1503513326, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/supporting/FlippingLabel.swift": [1502816549, 0]
+  "/Users/dhrumilshah/Desktop/old ios projects/Trofi UofC v1 2/Trofi/views/CollectionCell.swift": [1507592074, 0]

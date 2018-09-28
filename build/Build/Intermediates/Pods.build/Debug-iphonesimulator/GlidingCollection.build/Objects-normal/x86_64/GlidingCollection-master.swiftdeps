@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "cd5c5c42ab2277d10ca78c5c933c0a63"
+build_time: [560903530, 371452000]
+inputs:
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/GlidingCollection/GlidingCollection/Extensions/Collection.swift": [556838749, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/GlidingCollection/GlidingCollection/GlidingCollection.swift": [558198963, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/GlidingCollection/GlidingCollection/Protocols/GlidingCollectionDataSource.swift": [556838749, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/GlidingCollection/GlidingCollection/Protocols/GlidingCollectionDelegate.swift": [556838749, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/GlidingCollection/GlidingCollection/GlidingConfig.swift": [557953921, 0]
+  "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/GlidingCollection/GlidingCollection/GlidingLayout.swift": [556838749, 0]

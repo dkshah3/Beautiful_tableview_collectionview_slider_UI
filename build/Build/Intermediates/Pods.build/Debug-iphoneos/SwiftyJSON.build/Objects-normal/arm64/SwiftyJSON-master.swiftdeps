@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "4a01a722e0c51dac407f5a6b623d17b4"
+build_time: [1510168869, 82068000]
+inputs:
+  "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1509831428, 0]

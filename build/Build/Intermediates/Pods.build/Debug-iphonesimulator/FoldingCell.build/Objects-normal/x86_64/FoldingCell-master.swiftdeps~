@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "c24bca20b8cbae3d23f8ec096344fb14"
+build_time: [1510532768, 877104000]
+inputs:
+  "/Users/dhrumilshah/Desktop/Trofi UofC v1 2/Pods/FoldingCell/FoldingCell/FoldingCell/FoldingCell/FoldingCell.swift": [1503513326, 0]

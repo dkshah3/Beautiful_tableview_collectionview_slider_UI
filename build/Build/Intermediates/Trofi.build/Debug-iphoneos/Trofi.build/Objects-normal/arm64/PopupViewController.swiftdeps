@@ -1,0 +1,578 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PopupViewController"
+provides-nominal:
+- "5Trofi19PopupViewControllerC"
+provides-member:
+- ["5Trofi19PopupViewControllerC", ""]
+provides-dynamic-lookup:
+- "animationDuration"
+- "blurEffectStyle"
+- "dismissButton"
+- "dismissButtonTapped"
+- "initialScaleAmmount"
+- "popupContentContainerView"
+- "popupMainView"
+- "popupView"
+- "viewDidLoad"
+depends-top-level:
+- !private "/"
+- !private "??"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CGFloat"
+- "MIBlurPopupDelegate"
+- "PopupViewController"
+- "TimeInterval"
+- "UIBlurEffectStyle"
+- "UIButton"
+- "UIView"
+- "UIViewController"
+depends-member:
+- !private ["So7CALayerC", "cornerRadius"]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- !private ["SC6CGRectV", "height"]
+- !private ["s7CVarArgP", "UIView"]
+- ["s7CVarArgP", "animationDuration"]
+- ["s7CVarArgP", "blurEffectStyle"]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "dismiss"]
+- !private ["s7CVarArgP", "dismissButton"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "initialScaleAmmount"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "popupContentContainerView"]
+- !private ["s7CVarArgP", "popupMainView"]
+- ["s7CVarArgP", "popupView"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "UIView"]
+- ["s28CustomDebugStringConvertibleP", "animationDuration"]
+- ["s28CustomDebugStringConvertibleP", "blurEffectStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "dismissButton"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "initialScaleAmmount"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "popupContentContainerView"]
+- !private ["s28CustomDebugStringConvertibleP", "popupMainView"]
+- ["s28CustomDebugStringConvertibleP", "popupView"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "height"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s23CustomStringConvertibleP", "UIView"]
+- ["s23CustomStringConvertibleP", "animationDuration"]
+- ["s23CustomStringConvertibleP", "blurEffectStyle"]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- !private ["s23CustomStringConvertibleP", "dismissButton"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "initialScaleAmmount"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "popupContentContainerView"]
+- !private ["s23CustomStringConvertibleP", "popupMainView"]
+- ["s23CustomStringConvertibleP", "popupView"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "height"]
+- !private ["s9EncodableP", "height"]
+- !private ["s9EquatableP", "UIView"]
+- ["s9EquatableP", "animationDuration"]
+- ["s9EquatableP", "blurEffectStyle"]
+- !private ["s9EquatableP", "cornerRadius"]
+- !private ["s9EquatableP", "dark"]
+- !private ["s9EquatableP", "dismiss"]
+- !private ["s9EquatableP", "dismissButton"]
+- !private ["s9EquatableP", "frame"]
+- !private ["s9EquatableP", "height"]
+- !private ["s9EquatableP", "init"]
+- ["s9EquatableP", "initialScaleAmmount"]
+- !private ["s9EquatableP", "layer"]
+- !private ["s9EquatableP", "popupContentContainerView"]
+- !private ["s9EquatableP", "popupMainView"]
+- ["s9EquatableP", "popupView"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s8HashableP", "UIView"]
+- ["s8HashableP", "animationDuration"]
+- ["s8HashableP", "blurEffectStyle"]
+- !private ["s8HashableP", "cornerRadius"]
+- !private ["s8HashableP", "dark"]
+- !private ["s8HashableP", "dismiss"]
+- !private ["s8HashableP", "dismissButton"]
+- !private ["s8HashableP", "frame"]
+- !private ["s8HashableP", "init"]
+- ["s8HashableP", "initialScaleAmmount"]
+- !private ["s8HashableP", "layer"]
+- !private ["s8HashableP", "popupContentContainerView"]
+- !private ["s8HashableP", "popupMainView"]
+- ["s8HashableP", "popupView"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["10Kingfisher0A10CompatibleP", "frame"]
+- !private ["10Kingfisher0A10CompatibleP", "layer"]
+- !private ["11MIBlurPopup0aB8DelegateP", "UIView"]
+- ["11MIBlurPopup0aB8DelegateP", "animationDuration"]
+- ["11MIBlurPopup0aB8DelegateP", "blurEffectStyle"]
+- !private ["11MIBlurPopup0aB8DelegateP", "dismiss"]
+- !private ["11MIBlurPopup0aB8DelegateP", "dismissButton"]
+- ["11MIBlurPopup0aB8DelegateP", "initialScaleAmmount"]
+- !private ["11MIBlurPopup0aB8DelegateP", "popupContentContainerView"]
+- !private ["11MIBlurPopup0aB8DelegateP", "popupMainView"]
+- ["11MIBlurPopup0aB8DelegateP", "popupView"]
+- ["11MIBlurPopup0aB8DelegateP", ""]
+- !private ["So8NSCodingP", "UIView"]
+- ["So8NSCodingP", "animationDuration"]
+- ["So8NSCodingP", "blurEffectStyle"]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "dismiss"]
+- !private ["So8NSCodingP", "dismissButton"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "initialScaleAmmount"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "popupContentContainerView"]
+- !private ["So8NSCodingP", "popupMainView"]
+- ["So8NSCodingP", "popupView"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "UIView"]
+- ["So26NSExtensionRequestHandlingP", "animationDuration"]
+- ["So26NSExtensionRequestHandlingP", "blurEffectStyle"]
+- !private ["So26NSExtensionRequestHandlingP", "dismiss"]
+- !private ["So26NSExtensionRequestHandlingP", "dismissButton"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "initialScaleAmmount"]
+- !private ["So26NSExtensionRequestHandlingP", "popupContentContainerView"]
+- !private ["So26NSExtensionRequestHandlingP", "popupMainView"]
+- ["So26NSExtensionRequestHandlingP", "popupView"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "TimeInterval"]
+- ["So8NSObjectC", "UIBlurEffectStyle"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "animationDuration"]
+- ["So8NSObjectC", "blurEffectStyle"]
+- !private ["So8NSObjectC", "cornerRadius"]
+- !private ["So8NSObjectC", "dismiss"]
+- ["So8NSObjectC", "dismissButton"]
+- ["So8NSObjectC", "dismissButtonTapped"]
+- !private ["So8NSObjectC", "frame"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "initialScaleAmmount"]
+- !private ["So8NSObjectC", "layer"]
+- ["So8NSObjectC", "popupContentContainerView"]
+- ["So8NSObjectC", "popupMainView"]
+- ["So8NSObjectC", "popupView"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "UIView"]
+- ["So16NSObjectProtocolP", "animationDuration"]
+- ["So16NSObjectProtocolP", "blurEffectStyle"]
+- !private ["So16NSObjectProtocolP", "cornerRadius"]
+- !private ["So16NSObjectProtocolP", "dismiss"]
+- !private ["So16NSObjectProtocolP", "dismissButton"]
+- !private ["So16NSObjectProtocolP", "frame"]
+- !private ["So16NSObjectProtocolP", "init"]
+- ["So16NSObjectProtocolP", "initialScaleAmmount"]
+- !private ["So16NSObjectProtocolP", "layer"]
+- !private ["So16NSObjectProtocolP", "popupContentContainerView"]
+- !private ["So16NSObjectProtocolP", "popupMainView"]
+- ["So16NSObjectProtocolP", "popupView"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- ["5Trofi19PopupViewControllerC", "CGFloat"]
+- ["5Trofi19PopupViewControllerC", "TimeInterval"]
+- ["5Trofi19PopupViewControllerC", "UIBlurEffectStyle"]
+- ["5Trofi19PopupViewControllerC", "UIButton"]
+- ["5Trofi19PopupViewControllerC", "UIView"]
+- ["5Trofi19PopupViewControllerC", "animationDuration"]
+- ["5Trofi19PopupViewControllerC", "blurEffectStyle"]
+- ["5Trofi19PopupViewControllerC", "deinit"]
+- !private ["5Trofi19PopupViewControllerC", "dismiss"]
+- ["5Trofi19PopupViewControllerC", "dismissButton"]
+- ["5Trofi19PopupViewControllerC", "dismissButtonTapped"]
+- ["5Trofi19PopupViewControllerC", "init"]
+- ["5Trofi19PopupViewControllerC", "initialScaleAmmount"]
+- ["5Trofi19PopupViewControllerC", "popupContentContainerView"]
+- ["5Trofi19PopupViewControllerC", "popupMainView"]
+- ["5Trofi19PopupViewControllerC", "popupView"]
+- ["5Trofi19PopupViewControllerC", "viewDidLoad"]
+- !private ["s16RawRepresentableP", "dark"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "frame"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So21UIAppearanceContainerP", "UIView"]
+- ["So21UIAppearanceContainerP", "animationDuration"]
+- ["So21UIAppearanceContainerP", "blurEffectStyle"]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- !private ["So21UIAppearanceContainerP", "dismissButton"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "initialScaleAmmount"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "popupContentContainerView"]
+- !private ["So21UIAppearanceContainerP", "popupMainView"]
+- ["So21UIAppearanceContainerP", "popupView"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["SC17UIBlurEffectStyleO", "dark"]
+- !private ["So8UIButtonC", "frame"]
+- !private ["So8UIButtonC", "layer"]
+- !private ["So18UIContentContainerP", "UIView"]
+- ["So18UIContentContainerP", "animationDuration"]
+- ["So18UIContentContainerP", "blurEffectStyle"]
+- !private ["So18UIContentContainerP", "dismiss"]
+- !private ["So18UIContentContainerP", "dismissButton"]
+- !private ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "initialScaleAmmount"]
+- !private ["So18UIContentContainerP", "popupContentContainerView"]
+- !private ["So18UIContentContainerP", "popupMainView"]
+- ["So18UIContentContainerP", "popupView"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So9UIControlC", "frame"]
+- !private ["So9UIControlC", "layer"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "UIView"]
+- ["So18UIFocusEnvironmentP", "animationDuration"]
+- ["So18UIFocusEnvironmentP", "blurEffectStyle"]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- !private ["So18UIFocusEnvironmentP", "dismissButton"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "initialScaleAmmount"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "popupContentContainerView"]
+- !private ["So18UIFocusEnvironmentP", "popupMainView"]
+- ["So18UIFocusEnvironmentP", "popupView"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIView"]
+- ["So30UIPasteConfigurationSupportingP", "animationDuration"]
+- ["So30UIPasteConfigurationSupportingP", "blurEffectStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismissButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "initialScaleAmmount"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "popupContentContainerView"]
+- !private ["So30UIPasteConfigurationSupportingP", "popupMainView"]
+- ["So30UIPasteConfigurationSupportingP", "popupView"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "CGFloat"]
+- ["So11UIResponderC", "TimeInterval"]
+- ["So11UIResponderC", "UIBlurEffectStyle"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UIView"]
+- ["So11UIResponderC", "animationDuration"]
+- ["So11UIResponderC", "blurEffectStyle"]
+- !private ["So11UIResponderC", "dismiss"]
+- ["So11UIResponderC", "dismissButton"]
+- ["So11UIResponderC", "dismissButtonTapped"]
+- !private ["So11UIResponderC", "frame"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "initialScaleAmmount"]
+- !private ["So11UIResponderC", "layer"]
+- ["So11UIResponderC", "popupContentContainerView"]
+- ["So11UIResponderC", "popupMainView"]
+- ["So11UIResponderC", "popupView"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "UIView"]
+- ["So30UIResponderStandardEditActionsP", "animationDuration"]
+- ["So30UIResponderStandardEditActionsP", "blurEffectStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "dismissButton"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "initialScaleAmmount"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "popupContentContainerView"]
+- !private ["So30UIResponderStandardEditActionsP", "popupMainView"]
+- ["So30UIResponderStandardEditActionsP", "popupView"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So35UISpringLoadedInteractionSupportingP", "frame"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "layer"]
+- !private ["So16UIStateRestoringP", "UIView"]
+- ["So16UIStateRestoringP", "animationDuration"]
+- ["So16UIStateRestoringP", "blurEffectStyle"]
+- !private ["So16UIStateRestoringP", "dismiss"]
+- !private ["So16UIStateRestoringP", "dismissButton"]
+- !private ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "initialScaleAmmount"]
+- !private ["So16UIStateRestoringP", "popupContentContainerView"]
+- !private ["So16UIStateRestoringP", "popupMainView"]
+- ["So16UIStateRestoringP", "popupView"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So18UITraitEnvironmentP", "UIView"]
+- ["So18UITraitEnvironmentP", "animationDuration"]
+- ["So18UITraitEnvironmentP", "blurEffectStyle"]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "dismissButton"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "initialScaleAmmount"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "popupContentContainerView"]
+- !private ["So18UITraitEnvironmentP", "popupMainView"]
+- ["So18UITraitEnvironmentP", "popupView"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "frame"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "layer"]
+- ["So16UIViewControllerC", "CGFloat"]
+- ["So16UIViewControllerC", "TimeInterval"]
+- ["So16UIViewControllerC", "UIBlurEffectStyle"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UIView"]
+- ["So16UIViewControllerC", "animationDuration"]
+- ["So16UIViewControllerC", "blurEffectStyle"]
+- !private ["So16UIViewControllerC", "dismiss"]
+- ["So16UIViewControllerC", "dismissButton"]
+- ["So16UIViewControllerC", "dismissButtonTapped"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "initialScaleAmmount"]
+- ["So16UIViewControllerC", "popupContentContainerView"]
+- ["So16UIViewControllerC", "popupMainView"]
+- ["So16UIViewControllerC", "popupView"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "animationDuration"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "blurEffectStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismissButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "initialScaleAmmount"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "popupContentContainerView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "popupMainView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "popupView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+depends-nominal:
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- !private "SC6CGRectV"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- "s8HashableP"
+- !private "10Kingfisher0A10CompatibleP"
+- "11MIBlurPopup0aB8DelegateP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- "5Trofi19PopupViewControllerC"
+- !private "s16RawRepresentableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "SC17UIBlurEffectStyleO"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Accelerate.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm64.swiftmodule"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AlamofireImage/AlamofireImage.framework/Modules/AlamofireImage.swiftmodule/arm64.swiftmodule"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/FoldingCell/FoldingCell.framework/Modules/FoldingCell.swiftmodule/arm64.swiftmodule"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/MIBlurPopup/MIBlurPopup.framework/Modules/MIBlurPopup.swiftmodule/arm64.swiftmodule"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/arm64.swiftmodule"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/CollectionViewShelfLayout/CollectionViewShelfLayout.framework/Modules/CollectionViewShelfLayout.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-umbrella.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFNetworking-umbrella.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/FoldingCell/FoldingCell.framework/Headers/FoldingCell-umbrella.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/MIBlurPopup/MIBlurPopup.framework/Headers/MIBlurPopup-umbrella.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/CollectionViewShelfLayout/CollectionViewShelfLayout.framework/Headers/CollectionViewShelfLayout-umbrella.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFAutoPurgingImageCache.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIImage+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIRefreshControl+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIButton+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIKit+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIWebView+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIImageView+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIActivityIndicatorView+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIProgressView+AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFNetworking.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFURLResponseSerialization.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFURLRequestSerialization.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Trofi/Trofi-Bridging-Header.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFImageDownloader.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFURLSessionManager.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFHTTPSessionManager.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFNetworkActivityIndicatorManager.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFNetworkReachabilityManager.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/FoldingCell/FoldingCell.framework/Headers/FoldingCell-Swift.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/MIBlurPopup/MIBlurPopup.framework/Headers/MIBlurPopup-Swift.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/CollectionViewShelfLayout/CollectionViewShelfLayout.framework/Headers/CollectionViewShelfLayout-Swift.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRCoreSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFSecurityPolicy.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi Beta 2/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AlamofireImage/AlamofireImage.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/FoldingCell/FoldingCell.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/MIBlurPopup/MIBlurPopup.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/dhrumilshah/Desktop/Trofi UofC v1/build/Build/Products/Debug-iphoneos/CollectionViewShelfLayout/CollectionViewShelfLayout.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/StoreKit.framework/Headers/StoreKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.apinotes"
+interface-hash: "017347f7f7780360a80e55df79f8764d"
